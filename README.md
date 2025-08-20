@@ -6,7 +6,7 @@
 This repository contains an example of how to use the Chronic Immune
 Thrombocytopenia Purpura Risk Model (cITP-RM).
 
-You can access the web app for the model at [https://opal.shinyapps.io/citp-rm/](https://opal.shinyapps.io/citp-rm/)
+You can access the web app for the model at <a href="https://opal.shinyapps.io/citp-rm/" target="_blank">https://opal.shinyapps.io/citp-rm/</a>
 
 ``` r
 #install.packages("rms")
@@ -64,5 +64,6 @@ print(results)
     1       1                   0.380
     2       2                   0.218
     3       3                   0.051
+
 
 
