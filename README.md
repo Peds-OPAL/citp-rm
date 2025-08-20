@@ -1,4 +1,4 @@
-# Chronic ITP Prediction Model
+# Introduction to the cITP-RM
 
 
 ## Welcome
@@ -64,6 +64,7 @@ print(results)
     1       1                   0.380
     2       2                   0.218
     3       3                   0.051
+
 
 
 
